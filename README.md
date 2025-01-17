@@ -53,7 +53,7 @@ The training objective is **causal language modeling**, where the model predicts
 
 Below is a visual representation of the cross-entropy loss used during training:
 
-![Objective Function](objective_function_image.png)
+![Objective Function](https://github.com/HBX814/Falcon-7b-FineTuned/blob/main/Images/Image1.png)
 
 ---
 
